@@ -1,6 +1,4 @@
 
-<a href="https://codesandbox.io/s/pf4c0">![About Me](https://github.com/bufgix/bufgix/blob/master/ttt(1).gif)</a>
-
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -11,10 +9,9 @@
 ![InfluxDb](https://img.shields.io/badge/-Influxdb-05122A?style=flat&logo=influxdb)&nbsp;
 ![MongoDb](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 ![Grafana](https://img.shields.io/badge/-Grafana-05122A?style=flat&logo=grafana)&nbsp;
-
 ![React Native](https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=react)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android)&nbsp;
+![GitLab](https://img.shields.io/badge/-Gitlab-FCA121?style=flat&logo=Gitlab&logoColor=white)&nbsp;
 ![.NET](https://img.shields.io/badge/-.NET-05122A?style=flat&logo=.net)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
@@ -38,8 +35,6 @@
 
 
 <br/>
-<p align="right"><sup >Last Update: <i> 01/28/2021, 14:58:13 AM</i></sup></p>
-
 
 
 ### 🤝🏻 &nbsp;Connect with Me
